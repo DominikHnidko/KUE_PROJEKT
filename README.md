@@ -18,4 +18,9 @@ Głównym celem systemu jest poprawa czytelności sygnału poprzez redukcję szu
   - częstotliwości spoza zakresu pracy serca
 - Poprawa wykrywania szmerów sercowych
 
+
+![Opis obrazka](image.png)
+
+![Schemat](photo_2026-04-07_20-01-01.jpg)
+
 ---
