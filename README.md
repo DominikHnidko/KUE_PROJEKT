@@ -23,4 +23,7 @@ Głównym celem systemu jest poprawa czytelności sygnału poprzez redukcję szu
 
 ![Schemat](photo_2026-04-07_20-01-01.jpg)
 
+
+Układ działa i wzmacnia sygnał z pasma pracy serca.
+
 ---
