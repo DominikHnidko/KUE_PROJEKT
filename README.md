@@ -19,7 +19,3 @@ Głównym celem systemu jest poprawa czytelności sygnału poprzez redukcję szu
 - Poprawa wykrywania szmerów sercowych
 
 ---
-
----
-## 👨‍💻 Autor
-Projekt studencki 
